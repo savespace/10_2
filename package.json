@@ -1,0 +1,31 @@
+{
+  "name": "jquery1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "jquery"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/10_2.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/10_2/issues"
+  },
+  "homepage": "https://github.com/savespace/10_2#readme"
+}
